@@ -29,13 +29,10 @@ Smooth Scroll
 Smooth Scroll allows you to smoothly scroll to a section of the current page. This plugin is ideally for FAQs so that instead of jumping straight to the question/answer your user will slowly scroll there and keep their sense of location on the page.
 
 ### How To Use
-Call the <code>.smoothScroll();</code> method on any anchor tag that links to an id. (Ex: <code>#header</code>);
+Call the <code>.smoothScroll();</code> method on any anchor tag that links to an id. (Ex: <code>#header</code>) Takes a transition speed parameter.
 
     <a href="#header" id="back-to-top">Back to Top</a>
-    $('#back-to-top').smoothScroll();
-Optional transition speed parameter (in ms). Default is 500ms
-    
-    $('#back-to-top').smoothScroll(1000);
+    $('#back-to-top').smoothScroll(500);
 
 Target every anchor tag that links to an id.
 
