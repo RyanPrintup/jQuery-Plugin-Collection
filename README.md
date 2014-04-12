@@ -31,6 +31,7 @@ Smooth Scroll allows you to smoothly scroll to a section of the current page. Th
 ### How To Use
 Call the <code>.smoothScroll();</code> method on any anchor tag that links to an id. (Ex: <code>#header</code>);
 
+    <a href="#header" id="back-to-top">Back to Top</a>
     $('#back-to-top').smoothScroll();
 Optional transition speed parameter (in ms). Default is 500ms
     
