@@ -6,7 +6,7 @@ jQuery Plugin Collection is a collection of jQuery plugins that I have written t
   - [Ajaxify](/Ajaxify) - Submit any form with ajax
   - [Smooth Scroll](/SmoothScroll) - Smoothly scroll to a section of the current page
   - [CountTo](/CountTo)
-  - 
+  
 <br/>
 
 Author
