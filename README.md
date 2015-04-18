@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 jQuery Plugin Collection
 ========================
 <br/>
