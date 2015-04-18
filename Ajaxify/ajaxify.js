@@ -22,6 +22,10 @@
 						data[name] = value;
 					});
 
+					/**
+					 * Sent so the PHP script can determine
+					 * if the request was Ajax or not
+					 */
 					data['ajaxified'] = true;
 
 					$.ajax({
