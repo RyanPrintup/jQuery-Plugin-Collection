@@ -16,7 +16,6 @@ jQuery Plugin Collection is a collection of jQuery plugins that I have written t
 
 Author
 ------
-<br/>
 
 #### Ryan Printup
   - [Github](https://github.com/ryanprintup)
